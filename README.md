@@ -1,5 +1,5 @@
-- 👋 Whats Up! I’m @G.Alexander
-- 🌱 THE ODIN PROJECT(10/21) ------ > FULLSTACK OPEN(TBD) ------- > MACHINE LEARNING(TBD) ------- > TAKING OVER THE WORLD(Before My Death) MWah HAHA....(to spread love)
+- 👋@G.Alexander
+- 🌱 THE ODIN PROJECT(10/21) ------ > Apacademy ----- > We'll See 👀
 - 💞️ I'd Love To collaborate on Anything! Just PM me. 
 
 <!---

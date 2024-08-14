@@ -1,5 +1,5 @@
 - 👋@G.Alexander
-- 🌱 THE ODIN PROJECT(10/21) ------ > Apacademy ----- > We'll See 👀
+- 🌱 THE ODIN PROJECT(10/21) ------ > Appacademy ----- > We'll See 👀
 - 💞️ I'd Love To collaborate on Anything! Just PM me. 
 
 <!---

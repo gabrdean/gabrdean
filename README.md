@@ -1,6 +1,7 @@
 - 👋@G.Alexander
-- 🌱 THE ODIN PROJECT(10/21) ------ > Appacademy ----- > We'll See 👀
-- 💞️ I'd Love To collaborate on Anything! Just PM me. 
+- App Academy Full Stack Web Developer
+- 💞️ Love To collaborate on Anything. Just PM me.
+- Checkout the projects. 
 
 <!---
 gabrdean/gabrdean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

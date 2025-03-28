@@ -2,7 +2,7 @@
 - App Academy Full Stack Web Developer
 - 💞️ Love To collaborate on Anything. Just PM me.
 - Checkout the projects.
-- [LinkedIn](www.linkedin.com/in/gabriel-deane "Linked In")
+- [LinkedIn](www.linkedin.com/in/gabriel-deane)
 - [Personal Website](https://gabrdean.github.io "Personal Website")
 
 

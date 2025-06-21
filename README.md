@@ -1,6 +1,6 @@
 # Welcome, I'm Gabriel <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Dark%20Skin%20Tone.png" alt="Waving Hand Dark Skin Tone" width="25" height="25" /> 
 
-I'm a recent graduate of App Academy and now a Full-stack developer. I've created applications such as Backbone, a Social Accountability Web App and an Uber Eats Website Clone. My direction is digital modernization for businesses but I'm open to all avenues at the moment. I currently have 2 clients that I'm working with to create website/apps for. Stay to see the progress. 
+I'm a self taught, Full-stack developer. I've created applications such as Backbone, a Social Accountability Web App and an Uber Eats Website Clone. My direction is digital modernization for businesses but I'm open to all avenues at the moment. I currently have 2 clients that I'm working with to create website/apps for. Stay to see the progress. 
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31FF00AD&width=435&lines=Full-Stack+Software+Engineer;Digital+Solutions+Architect;Music+Enthusiast+)](https://git.io/typing-svg)
